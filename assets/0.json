@@ -1,0 +1,19 @@
+{
+  "name": "banchan",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GUK2ZjiQ1FA7bX98kneXD1EPXXd6fmfMKEu3NLBhMxd9",
+        "share": 100
+      }
+    ]
+  }
+}
